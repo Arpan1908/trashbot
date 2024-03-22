@@ -8,7 +8,7 @@ GPIO.setmode(GPIO.BCM)
 ENA = 18
 IN1 = 23
 IN2 = 24
-ENB = 2
+ENB = 25
 IN3 = 5
 IN4 = 6
 
